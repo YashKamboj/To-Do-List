@@ -1,0 +1,45 @@
+.heading{
+    color: greenyellow;
+    text-align: center;
+    font-size: 400%;
+    
+    font-family: "Times New Roman", Times, serif;
+}
+
+#midheading{
+    text-align: center;
+}
+
+.container{
+    width: 100%;
+}
+
+
+#inputField{
+   margin-top: 0px;
+   width: 300px;
+   height: 30px;
+   border: 2px solid  red;
+   border-radius: 10px;
+   vertical-align: middle;
+   margin-left: 600px;
+}
+
+
+#addToDo{
+    margin-top: 25px;
+    width:30px;
+    height: 36px;
+    border: 2px solid red;
+    border-radius: 7px;
+}
+
+.paragraph-styling{
+    text-align: center;
+    margin: 25px;
+    cursor: pointer;
+    font-size: 24px;
+    color: rgb(9, 230, 119);
+   
+}
+
